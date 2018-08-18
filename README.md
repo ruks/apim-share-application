@@ -1,0 +1,1 @@
+Custom group ID extractor to share application among roles
